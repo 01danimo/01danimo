@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,Linux,Bash,Git,Github,vscode,Docker,Kubernetes,Github Actions,Ansible,Terraform&perline=5" />
 </p>
 
 ## 🛠️ Skills
