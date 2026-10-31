@@ -21,6 +21,6 @@
 - Linux, infrastructure and secure system design
 
 ### `./find_me.sh`
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/01danimo)
 
 > Replace the placeholder links and profile details in `data/profile.json` before publishing.
